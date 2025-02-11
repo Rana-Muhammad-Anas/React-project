@@ -1,0 +1,46 @@
+[
+  { "id": 1, "path": "/", "element": "Home" },
+  { "id": 2, "path": "/marketplace", "element": "Marketplace" },
+  { "id": 3, "path": "/products/transcend", "element": "Transcend" },
+  { "id": 4, "path": "/products/digital-retail", "element": "Retail" },
+  { "id": 5, "path": "/products/portals", "element": "Portals" },
+  { "id": 6, "path": "/products/loan-originations", "element": "Loan" },
+  { "id": 7, "path": "/products/lease-servicing", "element": "Service" },
+  { "id": 8, "path": "/products/wholesale-finance", "element": "Finance" },
+  { "id": 9, "path": "/products/mobility-solutions", "element": "Mobility" },
+  {
+    "id": 10,
+    "path": "/services/information-security",
+    "element": "Information"
+  },
+  { "id": 11, "path": "/services/digital-solutions", "element": "Digital" },
+  {
+    "id": 12,
+    "path": "/services/ai-ml-services-and-solutions",
+    "element": "AI"
+  },
+  { "id": 13, "path": "/services/generative-ai", "element": "GenAi" },
+  {
+    "id": 14,
+    "path": "/services/policy-strategy-consulting",
+    "element": "Policy"
+  },
+  { "id": 15, "path": "/services/emerging-technologies", "element": "Techno" },
+  { "id": 16, "path": "/services/cloud-services", "element": "Cloud" },
+  { "id": 17, "path": "/services/data-engineering", "element": "Data" },
+  {
+    "id": 18,
+    "path": "/solutions/automotive-finance",
+    "element": "Automotive"
+  },
+  { "id": 19, "path": "/solutions/equipment-finance", "element": "Equipment" },
+  { "id": 20, "path": "/insights", "element": "Insights" },
+  { "id": 21, "path": "/about-us/why-netsol", "element": "Netsol" },
+  { "id": 22, "path": "/about-us/board-of-directors", "element": "Directors" },
+  { "id": 23, "path": "/about-us/management-team", "element": "Team" },
+  { "id": 24, "path": "/about-us/news", "element": "News" },
+  { "id": 25, "path": "/about-us/investors", "element": "Investors" },
+  { "id": 26, "path": "/about-us/careers", "element": "Careers" },
+  { "id": 27, "path": "/contact-us", "element": "Contact" },
+  { "id": 28, "path": "*", "element": "Error" }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Information security",
+    "icon": "FaLock",
+    "description": "Experience unmatched security with NETSOL's unparalleled information security services and solutions."
+  },
+  {
+    "id": 2,
+    "title": "Cloud services",
+    "icon": "IoCloud",
+    "description": "Explore our range of robust cloud services for scalable and secure business solutions."
+  },
+  {
+    "id": 3,
+    "title": "Talent partnerships",
+    "icon": "FaHandshake",
+    "description": "Employ the industry's best talent to help you develop and refine your technology strategy."
+  },
+  {
+    "id": 4,
+    "title": "Emerging technologies",
+    "icon": "FaPuzzlePiece",
+    "description": "Embrace the future with NETSOL leading in AI, ML, Digital Twins, Blockchain and Web 3.0 technologies, driving business growth."
+  },
+  {
+    "id": 5,
+    "title": "Data engineering",
+    "icon": "FaHandshake",
+    "description": "Data engineering Discover NETSOL's cutting-edge data engineering solutions for streamlined data management and advanced analytics."
+  },
+  {
+    "id": 6,
+    "title": "AI, ML & data analytics",
+    "icon": "FaRobot",
+    "description": "Explore NETSOL's AI, ML and data analytics solutions for actionable insights and enhanced, data-driven decision-making."
+  }
+]
