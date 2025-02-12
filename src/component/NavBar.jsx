@@ -9,7 +9,7 @@ import Logo from "../Netsol Logo/logo.png";
 export function NavBar() {
   return (
     <>
-      <Navbar expand="lg" className="bg-body-tertiary mb-5">
+      <Navbar expand="lg" className="bg-body-tertiary ">
         <Container fluid>
           <Navbar.Brand as={Link} to="/" className="me-0">
             <img src={Logo} alt="NETSOL" className="w-50" />
@@ -118,10 +118,12 @@ export function NavBar() {
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>
-          <img
-            src="https://netsoltech.com/_nuxt/flag_usa.D4VM6ocg.svg"
-            alt=""
-          />
+          <Navbar.Brand>
+            <img
+              src="https://netsoltech.com/_nuxt/flag_usa.D4VM6ocg.svg"
+              alt=""
+            />
+          </Navbar.Brand>
         </Container>
       </Navbar>
     </>

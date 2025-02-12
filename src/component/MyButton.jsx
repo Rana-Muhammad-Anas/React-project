@@ -6,8 +6,10 @@ const MyButton = ({ name }) => {
   return (
     <div>
       <Button variant="info" className="me-3">
-        {name}
-        <FaArrowRight className="ms-2" />
+        <div className="m-1 fw-bold sm-font">
+          {name}
+          <FaArrowRight className="ms-2" />
+        </div>
       </Button>
     </div>
   );

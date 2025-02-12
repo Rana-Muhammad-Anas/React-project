@@ -7,6 +7,8 @@ import MyButton from "../../MyButton";
 import TranscendConsultancy from "../../TranscendConsultancy";
 import Aws from "./Aws";
 import SliderImg from "./SliderImg";
+import MiniCooper from "./MiniCooper";
+import SubscriptionPart from "../../SubscriptionPart";
 
 const Home = () => {
   return (
@@ -19,9 +21,9 @@ const Home = () => {
         <p className="my-3 fs-5">
           From AI-powered finance solutions to innovative cloud services.
         </p>
-        <div>
+        <div className="d-flex">
           <MyButton name="Why NETSOL" />
-          <Button variant="outline-info">
+          <Button variant="outline-info sm-font fw-bold">
             Let's Talk
             <FaArrowRight />
           </Button>
@@ -32,6 +34,8 @@ const Home = () => {
       <TranscendConsultancy />
       <Aws />
       <SliderImg />
+      <MiniCooper />
+      <SubscriptionPart />
     </>
   );
 };

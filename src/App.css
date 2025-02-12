@@ -1,7 +1,21 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
+}
+
+.gradientPage {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(47, 209, 198, 255),
+    rgba(28, 124, 187, 255)
+  );
+}
+.sm-font {
+  font-size: 0.9rem;
+}
+.bg-light-blue {
+  background-color: rgba(232, 245, 255, 255);
 }

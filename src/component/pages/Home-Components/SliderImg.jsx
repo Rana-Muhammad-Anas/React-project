@@ -22,7 +22,7 @@ const SliderImg = () => {
   return (
     <div>
       {data.map((item, i) => (
-        <div className="container-fluid bg-light p-5" key={i}>
+        <div className="container-fluid bg-light-blue p-5" key={i}>
           <div className="container">
             <div className="row">
               <div className="col-6">
