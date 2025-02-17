@@ -1,0 +1,257 @@
+[
+  {
+    "id": 51,
+    "path": [
+      { "id": 1, "path": "/about-us/why-netsol", "title": "Why NETSOL" },
+
+      {
+        "id": 2,
+        "path": "/about-us/board-of-directors",
+        "title": "Board Of Directors"
+      },
+
+      {
+        "id": 3,
+        "path": "/about-us/management-team",
+        "title": "Management Team"
+      },
+      {
+        "id": 4,
+        "path": "/about-us/csr",
+        "title": "Social Responsibilities"
+      },
+      { "id": 5, "path": "/about-us/careers", "title": "Careers" }
+    ],
+    "heading": "NETSOL"
+  },
+  {
+    "id": 52,
+    "path": [
+      { "id": 6, "path": "/products/transcend", "title": "Transcend Platform" },
+
+      {
+        "id": 7,
+        "path": "/products/digital-retail",
+        "title": "Digital Retail"
+      },
+
+      { "id": 8, "path": "/products/portals", "title": "Intermediary Portals" },
+
+      {
+        "id": 9,
+        "path": "/products/loan-originations",
+        "title": "Originations"
+      },
+
+      { "id": 10, "path": "/products/lease-servicing", "title": "Servicing" },
+
+      {
+        "id": 12,
+        "path": "/products/wholesale-finance",
+        "title": "Wholesale Finance"
+      },
+
+      {
+        "id": 13,
+        "path": "/products/mobility-solutions",
+        "title": "Mobility Solutions"
+      }
+    ],
+    "heading": "Products"
+  },
+
+  {
+    "id": 53,
+    "path": [
+      {
+        "id": 14,
+        "path": "/services/information-security",
+        "title": "Information Security"
+      },
+
+      {
+        "id": 15,
+        "path": "/services/digital-solutions",
+        "title": "Digital Solutions"
+      },
+
+      {
+        "id": 16,
+        "path": "/services/ai-ml-services-and-solutions",
+        "title": "AI, ML & Data Analytics"
+      },
+
+      { "id": 17, "path": "/services/generative-ai", "title": "Generative AI" },
+
+      {
+        "id": 18,
+        "path": "/services/emerging-technologies",
+        "title": "Emerging Technologies"
+      },
+
+      {
+        "id": 19,
+        "path": "/services/cloud-services",
+        "title": "Cloud Services"
+      },
+
+      {
+        "id": 20,
+        "path": "/services/data-engineering",
+        "title": "Data Engineering"
+      }
+    ],
+    "heading": "Consultancy"
+  },
+
+  {
+    "id": 54,
+    "path": [
+      {
+        "id": 21,
+        "path": "/insights/case-studies",
+        "title": "Case Studies"
+      },
+
+      {
+        "id": 22,
+        "path": "/solutions/equipment-finance",
+        "title": "Industries"
+      },
+      {
+        "id": 23,
+        "path": "/solutions/equipment-finance",
+        "title": "Guides"
+      },
+      {
+        "id": 24,
+        "path": "/solutions/equipment-finance",
+        "title": "Blog"
+      },
+      {
+        "id": 25,
+        "path": "/solutions/equipment-finance",
+        "title": "Events"
+      }
+    ],
+    "heading": "Insights"
+  },
+  {
+    "id": 55,
+    "path": [
+      {
+        "id": 21,
+        "path": "/insights/case-studies",
+        "title": "Company Information"
+      },
+
+      {
+        "id": 22,
+        "path": "/solutions/equipment-finance",
+        "title": "News"
+      },
+      {
+        "id": 23,
+        "path": "/solutions/equipment-finance",
+        "title": "Stock Data"
+      },
+      {
+        "id": 24,
+        "path": "/solutions/equipment-finance",
+        "title": "SEC Filings"
+      }
+    ],
+    "heading": "Investors"
+  },
+  {
+    "id": 56,
+    "path": [
+      {
+        "id": 21,
+        "path": "/insights/case-studies",
+        "title": "Calculation Engine"
+      },
+
+      {
+        "id": 22,
+        "path": "/solutions/equipment-finance",
+        "title": "Document Generation"
+      },
+      {
+        "id": 23,
+        "path": "/solutions/equipment-finance",
+        "title": "API Library"
+      },
+      {
+        "id": 24,
+        "path": "/solutions/equipment-finance",
+        "title": "Loan Origination System"
+      },
+      {
+        "id": 25,
+        "path": "/solutions/equipment-finance",
+        "title": "Customer Care Portal"
+      },
+      {
+        "id": 25,
+        "path": "/solutions/equipment-finance",
+        "title": "Tax Calculation Engine"
+      }
+    ],
+    "heading": "Marketplace"
+  },
+  {
+    "id": 57,
+    "path": [
+      {
+        "id": 21,
+        "path": "/insights/case-studies",
+        "title": "Asset Finance"
+      },
+
+      {
+        "id": 22,
+        "path": "/solutions/equipment-finance",
+        "title": "Automotive Finance"
+      },
+      {
+        "id": 23,
+        "path": "/solutions/equipment-finance",
+        "title": "Equipment Finance"
+      }
+    ],
+    "heading": "Solutions"
+  },
+  {
+    "id": 58,
+    "path": [
+      {
+        "id": 21,
+        "path": "/insights/case-studies",
+        "title": "Case Studies"
+      },
+
+      {
+        "id": 22,
+        "path": "/solutions/equipment-finance",
+        "title": "Industries"
+      },
+      {
+        "id": 23,
+        "path": "/solutions/equipment-finance",
+        "title": "Guides"
+      },
+      {
+        "id": 24,
+        "path": "/solutions/equipment-finance",
+        "title": "Blog"
+      },
+      {
+        "id": 25,
+        "path": "/solutions/equipment-finance",
+        "title": "Events"
+      }
+    ],
+    "heading": "Contact Us"
+  }
+]

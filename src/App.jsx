@@ -29,6 +29,7 @@ import Careers from "./component/pages/AboutUs pages/Careers";
 import Contact from "./component/pages/Contact";
 import Error from "./component/pages/Error";
 import routes from "../src/component/pagesRoutes.json";
+import Footer from "./component/footer/Footer";
 
 function App() {
   const routesElement = {
@@ -77,6 +78,7 @@ function App() {
           );
         })}
       </Routes>
+      <Footer />
     </>
   );
 }
