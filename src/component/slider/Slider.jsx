@@ -7,9 +7,9 @@ const Slider = () => {
   return (
     <>
       <div className="py-5">
-        <h2 className="text-center">
+        <h3 className="text-center">
           The world's leading brands are powered by NETSOL
-        </h2>
+        </h3>
         <Marquee speed="70">
           <div className="d-flex justify-content-center">
             {imagesData.map((image) => {

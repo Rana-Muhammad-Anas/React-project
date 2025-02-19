@@ -4,7 +4,7 @@ import footerEndData from "./FooterEndpaths.json";
 
 const FooterEnd = () => {
   return (
-    <div className="container-fluid bg-black text-light">
+    <div className="container-fluid bg-black text-light py-3">
       <div className="row">
         <div className="col-4">
           <p>© 2025 NETSOL Technologies. All Rights Reserved.</p>

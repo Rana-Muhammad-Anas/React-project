@@ -1,14 +1,14 @@
 [
-  { "id": 1, "title": "Terms of Use", "link": "/terms-of-use" },
-  { "id": 2, "title": "Privacy Policy", "link": "/privacy-policy" },
+  { "id": 1, "title": "Terms of Use", "path": "/terms-of-use" },
+  { "id": 2, "title": "Privacy Policy", "path": "/privacy-policy" },
   {
     "id": 3,
     "title": "Human Rights Policy",
-    "link": "/about-us/human-rights-policy"
+    "path": "/about-us/human-rights-policy"
   },
   {
     "id": 4,
     "title": "Modern Slavery Act",
-    "link": "/about-us/modern-slavery-act"
+    "path": "/about-us/modern-slavery-act"
   }
 ]

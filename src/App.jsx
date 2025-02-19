@@ -30,6 +30,10 @@ import Contact from "./component/pages/Contact";
 import Error from "./component/pages/Error";
 import routes from "../src/component/pagesRoutes.json";
 import Footer from "./component/footer/Footer";
+import TermsofUse from "./component/pages/Footer-link-pages/Terms-of-Use";
+import PrivacyPolicy from "./component/pages/Footer-link-pages/Privacy-policy";
+import SlaveryAct from "./component/pages/Footer-link-pages/Slavery-Act";
+import HumanRights from "./component/pages/Footer-link-pages/Human-rights";
 
 function App() {
   const routesElement = {
@@ -60,6 +64,10 @@ function App() {
     Investors: <Investors />,
     Careers: <Careers />,
     Contact: <Contact />,
+    TermsofUse: <TermsofUse />,
+    PrivacyPolicy: <PrivacyPolicy />,
+    SlaveryAct: <SlaveryAct />,
+    HumanRights: <HumanRights />,
     Error: <Error />,
   };
   return (

@@ -9,7 +9,6 @@ const Aws = () => {
           <img
             src="https://netsoltech.com/_nuxt/partner-badge.CkXWg-VX.png"
             alt="AWS logo"
-            srcset=""
           />
         </div>
         <div className="col-md-9 col-12 p-5 ">

@@ -1,10 +1,10 @@
 import React from "react";
-import MyButton from "../../MyButton";
+import MyButton from "../../../MyButton";
 import minicooper from "./mini-cooper.png";
 
 const MiniCooper = () => {
   return (
-    <div className="container px-4 p-5">
+    <div className="container px-4 p-5 my-5">
       <div className="row mx-0">
         <div className="col-6 gradientPage rounded pt-5 px-4">
           <h2 className="fw-bold">
@@ -27,7 +27,6 @@ const MiniCooper = () => {
               }}
               src={minicooper}
               alt=""
-              srcset=""
             />
           </div>
         </div>

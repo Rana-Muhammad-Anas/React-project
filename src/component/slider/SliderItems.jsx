@@ -6,8 +6,8 @@ const SliderItems = ({ image }) => {
       <div className="mx-4">
         <img
           style={{
-            width: 140,
-            height: 140,
+            width: 120,
+            height: 120,
           }}
           src={image.src}
           alt={image.alt}

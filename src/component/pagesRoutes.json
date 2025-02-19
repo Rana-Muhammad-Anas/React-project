@@ -42,5 +42,13 @@
   { "id": 25, "path": "/about-us/investors", "element": "Investors" },
   { "id": 26, "path": "/about-us/careers", "element": "Careers" },
   { "id": 27, "path": "/contact-us", "element": "Contact" },
-  { "id": 28, "path": "*", "element": "Error" }
+  { "id": 28, "path": "*", "element": "Error" },
+  { "id": 29, "path": "/terms-of-use", "element": "TermsofUse" },
+  { "id": 30, "path": "/privacy-policy", "element": "PrivacyPolicy" },
+  {
+    "id": 31,
+    "path": "/about-us/human-rights-policy",
+    "element": "HumanRights"
+  },
+  { "id": 32, "path": "/about-us/modern-slavery-act", "element": "SlaveryAct" }
 ]
