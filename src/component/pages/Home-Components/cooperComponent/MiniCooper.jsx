@@ -6,7 +6,7 @@ const MiniCooper = () => {
   return (
     <div className="container px-4 p-5 my-5">
       <div className="row mx-0">
-        <div className="col-6 gradientPage rounded pt-5 px-4">
+        <div className="col-6 cooper-gradient rounded pt-5 px-4">
           <h2 className="fw-bold">
             Digital transformation in auto retail: The MINI Anywhere case-study
           </h2>

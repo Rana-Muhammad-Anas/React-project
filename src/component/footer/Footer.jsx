@@ -2,10 +2,12 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import data from "./footerPaths.json";
 import FooterEnd from "./FooterEnd";
+import SubscriptionPart from "../SubscriptionPart";
 
 const Footer = () => {
   return (
     <>
+      <SubscriptionPart />
       <div className="container-fluid footer">
         <div className="row">
           {data.map((e) => {

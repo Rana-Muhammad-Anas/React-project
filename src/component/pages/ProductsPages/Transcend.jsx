@@ -3,6 +3,7 @@ import Banner from "../../Banner";
 import Slider from "../../slider/Slider";
 import SubscriptionPart from "../../SubscriptionPart";
 import MiniCooper from "../Home-Components/cooperComponent/MiniCooper";
+import backImage from "../../../../src/assets/Bg-Images/our_platform.jpg";
 
 const Transcend = () => {
   const transcendBannerData = {
@@ -10,6 +11,7 @@ const Transcend = () => {
     description:
       "From AI-powered finance solutions to seamless digital retail.",
     btnName: "Connect With Us",
+    bgImage: backImage,
   };
   return (
     <>
@@ -18,7 +20,6 @@ const Transcend = () => {
         <Slider />
       </div>
       <MiniCooper />
-      <SubscriptionPart />
     </>
   );
 };

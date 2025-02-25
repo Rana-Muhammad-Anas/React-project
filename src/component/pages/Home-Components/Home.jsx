@@ -5,27 +5,27 @@ import TranscendConsultancy from "../../TranscendConsultancy";
 import Aws from "./Aws";
 import SliderImg from "./SliderImg";
 import MiniCooper from "./cooperComponent/MiniCooper";
-import SubscriptionPart from "../../SubscriptionPart";
-import Banner from "../../Banner";
+import VideoBanner from "./VideoBanner";
+import backvideo from "../../../../src/assets/Bg-Images/homePageBg.mp4";
 
 const Home = () => {
   let homeBannerData = {
-    title: "Transcend the limits of technology",
+    title: "Transcend the\nlimits of technology",
     description:
       "From AI-powered finance solutions to innovative cloud services.",
     btnName: "Why NETSOL",
     secBtn: "Let's Talk",
+    bgVideo: backvideo,
   };
   return (
     <>
-      <Banner data={homeBannerData} />
+      <VideoBanner data={homeBannerData} />
       <Slider />
       <TranscendHome />
       <TranscendConsultancy />
       <Aws />
       <SliderImg />
       <MiniCooper />
-      <SubscriptionPart />
     </>
   );
 };

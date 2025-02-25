@@ -3,7 +3,7 @@ import MyButton from "../../MyButton";
 
 const Aws = () => {
   return (
-    <div className="container-fluid bg-warning p-5">
+    <div className="container-fluid bg-warning p-5 my-5">
       <div className="row">
         <div className="col-md-3 col-12 text-center p-5">
           <img
