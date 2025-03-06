@@ -36,3 +36,6 @@
 .content {
   position: absolute;
 }
+.title-bg {
+  background-color: rgba(224, 244, 253, 255);
+}

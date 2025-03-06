@@ -31,7 +31,12 @@ const SliderImg = () => {
                 <p>{item.title}</p>
               </div>
               <div className="col-6 ps-5">
-                <img src={item.img} alt="image" />
+                <img
+                  src={item.img}
+                  alt="image"
+                  style={{ width: "100%" }}
+                  className="rounded"
+                />
               </div>
             </div>
           </div>

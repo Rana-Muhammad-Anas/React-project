@@ -1,18 +1,12 @@
 import React from "react";
 import Banner from "../../Banner";
 import Slider from "../../slider/Slider";
-import SubscriptionPart from "../../SubscriptionPart";
 import MiniCooper from "../Home-Components/cooperComponent/MiniCooper";
-import backImage from "../../../../src/assets/Bg-Images/our_platform.jpg";
+import { transcendBannerData } from "../../BannersData";
+import TitleDiscription from "../../TitleDiscription";
+import { transcendTitleData } from "../../TitleDescriptionData";
 
 const Transcend = () => {
-  const transcendBannerData = {
-    title: "Transcend the limits of technology",
-    description:
-      "From AI-powered finance solutions to seamless digital retail.",
-    btnName: "Connect With Us",
-    bgImage: backImage,
-  };
   return (
     <>
       <Banner data={transcendBannerData} />
@@ -20,6 +14,7 @@ const Transcend = () => {
         <Slider />
       </div>
       <MiniCooper />
+      <TitleDiscription data={transcendTitleData} />
     </>
   );
 };

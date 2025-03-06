@@ -1,12 +1,9 @@
 import React from "react";
 import Banner from "../../Banner";
-import backImage from "../../../../src/assets/Bg-Images/board-of-directors.jpg";
+
+import { directorsBannerData } from "../../BannersData";
 
 const Directors = () => {
-  const directorsData = {
-    title: "Board Of Directors",
-    bgImage: backImage,
-  };
-  return <Banner data={directorsData} />;
+  return <Banner data={directorsBannerData} />;
 };
 export default Directors;

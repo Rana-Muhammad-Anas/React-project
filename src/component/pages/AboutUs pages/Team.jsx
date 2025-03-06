@@ -1,13 +1,13 @@
 import React from "react";
 import Banner from "../../Banner";
-import backImage from "../../../../src/assets/Bg-Images/management-team.jpg";
+import { teamBannerData } from "../../BannersData";
 
 const Team = () => {
-  const teamData = {
-    title: "Management Team",
-    bgImage: backImage,
-  };
-  return <Banner data={teamData} />;
+  // const teamData = {
+  //   title: "Management Team",
+  //   bgImage: backImage,
+  // };
+  return <Banner data={teamBannerData} />;
 };
 
 export default Team;

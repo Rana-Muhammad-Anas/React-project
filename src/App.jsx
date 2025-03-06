@@ -4,7 +4,7 @@ import Home from "./component/pages/Home-Components/Home";
 import Transcend from "./component/pages/ProductsPages/Transcend";
 import Retail from "./component/pages/ProductsPages/Retail";
 import Portals from "./component/pages/ProductsPages/Portals";
-import Loan from "./component/pages/ProductsPages/Loan";
+import Loan from "./component/pages/ProductsPages/LoanOrigination";
 import Service from "./component/pages/ProductsPages/Service";
 import Finance from "./component/pages/ProductsPages/Finance";
 import Marketplace from "./component/pages/Marketplace";
